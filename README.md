@@ -2,6 +2,8 @@
 
 This repository contains a collection of mini React projects. Each project is a standalone application that demonstrates various React concepts such as state management, routing, hooks, and API integrations. New projects will be added regularly, so stay tuned for more React-based applications!
 
+I also write educative blogs on React, cloud and other tech topics feel free to checkout my medium page for free educational content [CLICK HERE TO VIEW](https://medium.com/@mark.onyango_95482)
+
 ## Projects
 
 ### 1. [Backroads](https://backroads-sec-app.netlify.app/)
